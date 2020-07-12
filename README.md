@@ -1,4 +1,4 @@
-### Hi I'm Bagus Sulistyo 👋
+### Hi I'm Bagus Sulistyo :grimacing:
 
 <!--
 **3ndung/3ndung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
