@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Code Enthusiast &  Love to Learn ,<br>
-I currently work at a telecommunications service provider in Jakarta, Indonesia
-I often work with shell Script & Python to configuration some Data products.
+I currently work at a telecommunications service provider in Jakarta, Indonesia<br>
+I love playing with script to make my daily task easir & fun ( mostly Python & Shell Script )<br>
+
