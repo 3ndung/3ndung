@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer & Love to Learn ,
+Code Enthusiast &  Love to Learn ,<br>
 I currently work at a telecommunications service provider in Jakarta, Indonesia
 I often work with shell Script & Python to configuration some Data products.
