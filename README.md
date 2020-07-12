@@ -1,4 +1,4 @@
-### Hi I'm Bagus Sulistyo :grimacing:
+### Hi I'm Bagus Sulistyo :alien:
 
 <!--
 **3ndung/3ndung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 Code Enthusiast &  Love to Learn ,<br>
 I currently work at a telecommunications service provider in Jakarta, Indonesia<br>
 I love playing with script to make my daily task easir & fun ( mostly Python & Shell Script )<br>
+<br>
+Code make me feel alive and somehow it's like playing puzzle <br>
+but the most important is make life is Fun todo :rainbow:
 
