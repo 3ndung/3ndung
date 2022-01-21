@@ -1,4 +1,4 @@
-### Hi I'm Bagus Sulistyo :alien:
+### Hi I'm Bagus S :alien:
 
 <!--
 **3ndung/3ndung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
