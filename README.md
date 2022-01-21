@@ -20,5 +20,5 @@ I currently work at a telecommunications service provider in Jakarta, Indonesia<
 I love playing with script to make my daily task easir & fun ( mostly Python & Shell Script )<br>
 <br>
 Code make me feel alive and somehow it's like playing puzzle <br>
-but the most important is make life is Fun todo :rainbow:
+but the most important is make life is Fun todo 🐱:
 
