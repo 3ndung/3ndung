@@ -1,24 +1,26 @@
-### Hi I'm Bagustyo :alien:
+### Hi, I'm Bagustyo 👋
 
-<!--
-**3ndung/3ndung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Problem Solver • Automation Wizard • Code Enthusiast**  
 
-Here are some ideas to get you started:
+I turn boring, repetitive tasks into smooth, delightful experiences with code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at a telecommunications service provider in Jakarta, Indonesia. By day I keep the digital world connected — by night (and sometimes during the day 😄), I’m busy crafting clever scripts that make life significantly more fun and efficient.
 
-Code Enthusiast &  Love to Learn ,<br>
-I currently work at a telecommunications service provider in Jakarta, Indonesia<br>
-I love playing with script to make my daily task easir & fun ( mostly Python & Shell Script )<br>
-<br>
-Code make me feel alive and somehow it's like playing puzzle <br>
-but the most important is make life is Fun todo 🐱:
+I’m addicted to **Python** and **Shell Scripting**. For me, coding feels like solving an exciting puzzle where every challenge is an invitation to create something smarter, faster, and cooler. Nothing beats the rush of automating something that used to take hours and watching it finish in seconds!
 
+#### What I love doing:
+- Building automation that saves time and sanity  
+- Turning “this is annoying” into “this is awesome”  
+- Tackling interesting problems and learning new tricks along the way  
+
+If there’s a repetitive task, a clunky process, or a fun technical challenge — I’m probably already thinking about how to make it better.
+
+**Let’s make things better (and more fun) together!**  
+
+Always up for collaboration, brainstorms, or swapping automation war stories.
+
+📫 Reach out to me — I’d love to hear what you’re working on!
+
+---
+
+*"Life’s too short for manual work. Let’s script the fun parts."* 🐱✨
