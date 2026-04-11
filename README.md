@@ -1,6 +1,6 @@
 ### Hi, I'm Bagustyo 👋
 
-**Problem Solver • Automation Wizard • Code Enthusiast**  
+**Automation & Code Enthusiast**  
 
 I turn boring, repetitive tasks into smooth, delightful experiences with code.  
 
